@@ -51,8 +51,8 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=HowiePang&show_icons=true&theme=tokyonight&hide_border=true" />
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HowiePang&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=HowiePang&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HowiePang&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 
 <p align="center">
