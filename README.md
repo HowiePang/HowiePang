@@ -3,8 +3,7 @@
 </h1>
 
 <p align="center">
-<a href="https://github.com/HowiePang"><img src="https://img.shields.io/badge/GitHub‑171515?style=for‑the‑badge&logo=github"/></a>
-<a href="mailto:xxx@xxx.com"><img src="https://img.shields.io/badge/Email‑D14836?style=for‑the‑badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/HowiePang"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github"/></a>
 </p>
 
 ---
@@ -19,33 +18,33 @@
 ## 🛠️ Tech Stack
 ### 🚀 Container & Orchestration
 <p align="left">
-<img src="https://img.shields.io/badge/Docker‑2496ED?style=for‑the‑badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes‑326CE5?style=for‑the‑badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Helm‑0F1689?style=for‑the‑badge&logo=helm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
 </p>
 
 ### 📊 Monitoring & Observability
 <p align="left">
-<img src="https://img.shields.io/badge/Prometheus‑E6522C?style=for‑the‑badge&logo=prometheus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grafana‑F46800?style=for‑the‑badge&logo=grafana&logoColor=white"/>
-<img src="https://img.shields.io/badge/Loki‑0096D6?style=for‑the‑badge&logo=grafana&logoColor=white"/>
-<img src="https://img.shields.io/badge/Alertmanager‑D22128?style=for‑the‑badge&logo=prometheus"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/Loki-0096D6?style=for-the-badge&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/Alertmanager-D22128?style=for-the-badge&logo=prometheus"/>
 </p>
 
 ### 💻 Languages
 <p align="left">
-<img src="https://img.shields.io/badge/Go‑00ADD8?style=for‑the‑badge&logo=go&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python‑3776AB?style=for‑the‑badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash‑4EAA25?style=for‑the‑badge&logo=gnubash&logoColor=white"/>
-<img src="https://img.shields.io/badge/YAML‑CB171E?style=for‑the‑badge&logo=yaml"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml"/>
 </p>
 
 ### ☁️ Infra & CI/CD
 <p align="left">
-<img src="https://img.shields.io/badge/Linux‑FCC624?style=for‑the‑badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/GitHub‑Actions‑2088FF?style=for‑the‑badge&logo=githubactions"/>
-<img src="https://img.shields.io/badge/Terraform‑7B42BC?style=for‑the‑badge&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nginx‑009639?style=for‑the‑badge&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/GitHub‑Actions-2088FF?style=for-the-badge&logo=githubactions"/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
 </p>
 
 ---
